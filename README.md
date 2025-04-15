@@ -1,2 +1,4 @@
 # Associate-Data-Scientist
-preparing for Associate Data Scientist Certificate
+Preparing for the Associate Data Scientist Certificate.
+
+
